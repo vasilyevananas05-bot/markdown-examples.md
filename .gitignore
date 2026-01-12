@@ -1,0 +1,4 @@
+git rm --cached LICENSE
+git rm --cached Markdown
+git rm --cached images
+git rm --cached photo.webp
